@@ -9,9 +9,9 @@ Assignments and Projects
  4. Seasonality
  5. Smoothing
  6. Exponential smoothing
- 7. Forecasting Model
-    a. AR
-    b. Simple Mean
-    c. Autoencoders
-    d. RNN
-    e. Convolutional Networks
+ 7. Forecasting Model <br>
+    a. AR <br>
+    b. Simple Mean <br>
+    c. Autoencoders <br>
+    d. RNN <br>
+    e. Convolutional Networks <br>
